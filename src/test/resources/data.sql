@@ -1,0 +1,1 @@
+insert into employee (name, id) values ('hello', 1);
