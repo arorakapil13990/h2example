@@ -22,7 +22,7 @@ public class EmployeeRepositoryTest {
 
     @Test
     void testFindByName(){
-        Employee employee = employeeRepository.findByName("hello");
-        Assertions.assertEquals("hello",employee.getName());
+        Employee employee = employeeRepository.findByName("kapil");
+        Assertions.assertEquals("kapil",employee.getName());
     }
 }

@@ -1,1 +1,2 @@
-insert into employee (name, id) values ('hello', 1);
+
+insert into employee (name, id) values ('kapil', 1);
